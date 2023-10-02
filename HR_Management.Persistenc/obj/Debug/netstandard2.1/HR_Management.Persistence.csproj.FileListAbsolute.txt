@@ -1,0 +1,15 @@
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\bin\Debug\netstandard2.1\HR_Management.Persistence.deps.json
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\bin\Debug\netstandard2.1\HR_Management.Persistence.dll
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\bin\Debug\netstandard2.1\HR_Management.Persistence.pdb
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\bin\Debug\netstandard2.1\HR_Management.Application.dll
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\bin\Debug\netstandard2.1\HR_Management.Domain.dll
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\bin\Debug\netstandard2.1\HR_Management.Application.pdb
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\bin\Debug\netstandard2.1\HR_Management.Domain.pdb
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\obj\Debug\netstandard2.1\HR_Management.Persistence.csproj.AssemblyReference.cache
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\obj\Debug\netstandard2.1\HR_Management.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\obj\Debug\netstandard2.1\HR_Management.Persistence.AssemblyInfoInputs.cache
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\obj\Debug\netstandard2.1\HR_Management.Persistence.AssemblyInfo.cs
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\obj\Debug\netstandard2.1\HR_Management.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\obj\Debug\netstandard2.1\HR_Management.Persistence.csproj.CopyComplete
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\obj\Debug\netstandard2.1\HR_Management.Persistence.dll
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Persistenc\obj\Debug\netstandard2.1\HR_Management.Persistence.pdb

@@ -1,0 +1,10 @@
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\bin\Debug\netstandard2.1\HR_Management.Infrstructure.deps.json
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\bin\Debug\netstandard2.1\HR_Management.Infrstructure.dll
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\bin\Debug\netstandard2.1\HR_Management.Infrstructure.pdb
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\obj\Debug\netstandard2.1\HR_Management.Infrstructure.csproj.AssemblyReference.cache
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\obj\Debug\netstandard2.1\HR_Management.Infrstructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\obj\Debug\netstandard2.1\HR_Management.Infrstructure.AssemblyInfoInputs.cache
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\obj\Debug\netstandard2.1\HR_Management.Infrstructure.AssemblyInfo.cs
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\obj\Debug\netstandard2.1\HR_Management.Infrstructure.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\obj\Debug\netstandard2.1\HR_Management.Infrstructure.dll
+C:\Users\mahdi\Documents\HR_Management\HR_Management.Infrstructure\obj\Debug\netstandard2.1\HR_Management.Infrstructure.pdb
